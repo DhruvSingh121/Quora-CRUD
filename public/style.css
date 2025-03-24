@@ -1,0 +1,27 @@
+* {
+  font-family: poppins;
+}
+h1 {
+  color: brown;
+}
+h3 {
+  margin: 0;
+}
+.post {
+  background-color: blanchedalmond;
+  border-radius: 12px;
+  padding: 4px 12px;
+  margin: 8px;
+}
+.username {
+  font-style: italic;
+}
+.create {
+  background-color: gainsboro;
+  text-align: center;
+  padding: 8px;
+}
+.create a {
+  text-decoration: none;
+  color: black;
+}
